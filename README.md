@@ -1,4 +1,4 @@
-# A Framework For Generating Explainable Recommendation Via Multitask Learning
+# A Framework For Generating Explainable Recommendations Via Multitask Learning
 
 
 The full document will be published soon
