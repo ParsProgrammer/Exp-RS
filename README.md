@@ -20,7 +20,7 @@ The main goal of this work is to develop a **novel framework** that generates ex
 
 ## 🖼️ Framework Diagram
 <img width="653" alt="Framework Diagram" src="https://user-images.githubusercontent.com/103757072/233791305-44be5fa7-e794-411e-8863-c7709ec389ef.png">
-<img width="653" alt="Framework Diagram" src="/exp_main_diagram.png">
+<img width="653" alt="Framework Diagram" src="exp_main_diagram.png">
 ---
 
 ## 🔑 Keywords
