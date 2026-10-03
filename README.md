@@ -36,4 +36,16 @@ The main goal of this work is to develop a **novel framework** that generates ex
 ## ⚙️ Highlights
 - Incorporates user **writing style** into explanation generation.  
 - Uses **multi-task learning** to predict recommendations and generate explanations simultaneously.  
-- Promotes **transparency and ethical AI practices** in recommendation systems.  
+- Promotes **transparency and ethical AI practices** in recommendation systems.
+
+---
+
+## Publication
+
+This repository contains the implementation accompanying our paper:
+
+**A Framework for Accurate Recommendation and Explanation Generation Using Multi-task Learning**  
+Mohammad Mobin Shahidi, Amin Nazari, and Muharram Mansoorizadeh  
+*SN Computer Science*, 7, 775 (2026).
+
+📄 [Read the paper](https://doi.org/10.1007/s42979-026-05361-2)
